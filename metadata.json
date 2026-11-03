@@ -1,0 +1,6 @@
+{
+  "name": "Project Iron Storm",
+  "description": "Original 2D arcade run-and-gun action platformer inspired by Metal Slug with hand-drawn art, dynamic lighting, pilotable tanks, and 2-player co-op.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
